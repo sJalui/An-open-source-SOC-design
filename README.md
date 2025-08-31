@@ -56,13 +56,6 @@ This project demonstrates an opinionated open‑source SOC where Wazuh provides 
 - Install MISP and connect to TheHive to pull feed‑backed alerts and push validated IOCs from cases for correlation and sharing.
 - Install Shuffle and build a webhook‑triggered playbook that creates a case, runs Cortex, posts notifications, and optionally blocks an IP via a firewall/API.
 
-## Repository structure (suggested)
-
-- /diagrams: PNG/SVG for the five diagrams above for onboarding and documentation within the repo.
-- /wazuh‑filebeat: Example Wazuh agent and Filebeat module configs for Suricata and Zeek ingestion and index templates for Kibana.
-- /playbooks: Shuffle exports plus TheHive case templates and Cortex analyzer configuration snippets to accelerate adoption.
-- /docs: Runbooks for triage, enrichment, containment, and IOC curation into MISP with links to relevant dashboards and cases.
-
 ## License
 
-Documentation and example configurations in this repository may be published under a permissive license such as MIT or Apache‑2.0; verify organizational licensing needs before distribution.
+Licensed under MIT.
