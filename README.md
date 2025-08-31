@@ -8,7 +8,7 @@ A modular, fully open‑source SOC blueprint that unifies endpoint telemetry, ne
 ![Wazuh End‑to‑End Telemetry and Alert Pipeline](https://github.com/sJalui/An-open-source-SOC-design/blob/main/Images/wazuh_end-to-end%20telemetry%20and%20alert%20pipeline.png?raw=true)
 
 ### High‑Level Architecture
-![High‑Level Architecture](https://github.com/sJalui/An-open-source-SOC-desig…Images/block_high_level_architecture.png?raw=true)
+![High‑Level Architecture](https://github.com/sJalui/An-open-source-SOC-design/blob/main/Images/block_high_level_architecture.png?raw=true)
 
 ### End‑to‑End Alert Flow
 ![End‑to‑End Sequence](https://github.com/sJalui/An-open-source-SOC-design/blob/main/Images/end_to_end_seq.png?raw=true)
