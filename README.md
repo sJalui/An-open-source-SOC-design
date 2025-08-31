@@ -4,23 +4,18 @@ A modular, fully open‑source SOC blueprint that unifies endpoint telemetry, ne
 
 ## Diagrams
 
-Insert URL here
 ### Wazuh End‑to‑End Telemetry and Alert Pipeline
 ![Wazuh End‑to‑End Telemetry and Alert Pipeline](https://github.com/sJalui/An-open-source-SOC-design/blob/main/Images/wazuh_end-to-end%20telemetry%20and%20alert%20pipeline.png?raw=true)
 
-Insert URL here
 ### High‑Level Architecture
 ![High‑Level Architecture](https://github.com/sJalui/An-open-source-SOC-desig…Images/block_high_level_architecture.png?raw=true)
 
-Insert URL here
 ### End‑to‑End Alert Flow
 ![End‑to‑End Sequence](https://github.com/sJalui/An-open-source-SOC-design/blob/main/Images/end_to_end_seq.png?raw=true)
 
-Insert URL here
 ### Full Workflow Sequence
 ![Full Workflow Sequence](https://github.com/sJalui/An-open-source-SOC-design/blob/main/Images/full%20workflow%20sequence.png?raw=true")
 
-Insert URL here
 ### MISP Threat‑Intel Ecosystem
 ![MISP Threat‑Intel Ecosystem](https://github.com/sJalui/An-open-source-SOC-design/blob/main/Images/misp_threat_intelligence_ecosystem.png?raw=true)
 
